@@ -1,0 +1,62 @@
+othidam
+Effective Date: 19-07-2025
+Developer: Velava Jothida Vidyalayam
+Contact Email: velavajothidavidyalayam@gmail.com
+
+1. Overview
+Velva Jothidam is an offline astrology mobile application developed using Flutter. We value your privacy and are committed to protecting your personal information. This Privacy Policy explains what data we collect, how we use it, and how we keep it secure.
+
+2. Offline & Subscription Model
+This app does not require account creation or login.
+
+The app functions completely offline after a one-time activation.
+
+Subscription is device-specific and works using a unique activation key tied to your device’s Android ID.
+
+3. Information We Collect
+We do not collect or store any personal data automatically. The only data involved are:
+
+Android ID: Collected manually and securely via private channels like WhatsApp or email, used solely to generate a license key for activation.
+
+Customer Data (User Input): Name, date of birth, time of birth, and place of birth—entered manually by the user to generate horoscope reports. This data is stored only locally on the user’s device.
+
+Location Data (Lat/Long): Automatically fetched only from the place of birth using internal logic to provide accurate astrological results. This is not stored or transmitted externally.
+
+PDF Reports: Generated based on user input and stored on the user’s device. Users may share these PDFs at their discretion.
+
+4. No Internet Data Sharing
+The app does not transmit any data to external servers.
+
+There is no background tracking, analytics, or advertising SDKs.
+
+The app does not require an internet connection after activation.
+
+5. Encryption & Security
+Android ID and activation key exchange are done via secure, encrypted methods.
+
+No data is sent to cloud servers. All processing happens locally on the device.
+
+6. Language Support
+The app supports both Tamil and English languages for UI and generated reports.
+
+7. Children’s Privacy
+This app is not intended for children under the age of 13. We do not knowingly collect any personal information from children.
+
+8. User Control & Rights
+Since no data is stored or managed by us:
+
+We do not store, sell, or share any of your personal data.
+
+You retain full control over the data entered into the app.
+
+If you have questions or want your activation key revoked for any reason, you can contact us at the email below.
+
+9. Changes to This Policy
+We may update our Privacy Policy in the future. Any changes will be reflected in this document and updated in the app if necessary.
+
+10. Contact
+For any questions about this Privacy Policy or your data:
+
+Email: velavajothidavidyalayam@gmail.com
+Phone (optional): +919080061700
+WhatsApp: +919080061700
