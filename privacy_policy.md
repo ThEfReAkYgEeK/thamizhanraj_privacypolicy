@@ -47,7 +47,7 @@ We may update this Privacy Policy from time to time. Any changes will be updated
 8. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-📧 ssnrajkumar231995@gmail.com
+📧 ssnrajkumar23@gmail.com
 📱 +91 9789613436
 
 📜 Terms and Conditions for Thamizhan Raj
@@ -105,5 +105,5 @@ These Terms are governed by the laws of India.
 8. Contact Us
 
 For any questions about these Terms, please contact us at:
-📧 ssnrajkumar231995@gmail.com
+📧 ssnrajkumar23@gmail.com
 📱 +91 9789613436
