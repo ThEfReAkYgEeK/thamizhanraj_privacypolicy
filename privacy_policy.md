@@ -98,11 +98,7 @@ We do not guarantee exam success or accuracy of every question.
 
 We may suspend or terminate your account if you violate these Terms.
 
-7. Governing Law
-
-These Terms are governed by the laws of India.
-
-8. Contact Us
+7. Contact Us
 
 For any questions about these Terms, please contact us at:
 📧 ssnrajkumar23@gmail.com
