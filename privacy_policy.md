@@ -88,7 +88,7 @@ You may not copy, reproduce, or distribute the app content without prior written
 
 5. Disclaimer of Liability
 
-Thamizhan Raj is not affiliated with any government entity (e.g., TNPSC, SSC, RRB).
+Thamizhan Raj is not affiliated with any entity.
 
 The app provides practice content for learning purposes only.
 
